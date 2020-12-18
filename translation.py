@@ -11,7 +11,7 @@ Support Group : @InFoTelGroup
     RENAME_403_ERR = "Sorry. You are not permitted to rename this file."
     ABS_TEXT = " Please don't be selfish."
     UPGRADE_TEXT = "<b>👉 Create own Clone Bot.. </b>  /help for Details"
-    FORMAT_SELECTION = "Select the desired format: <a href='{}'>file size might be approximate</a> \nIf you want to set custom thumbnail, send photo before or quickly after tapping on any of the below buttons.\nYou can use /deletethumbnail to delete the auto-generated thumbnail."
+    FORMAT_SELECTION = "Select the desired format: a."
     SET_CUSTOM_USERNAME_PASSWORD = """If you want to download premium videos, provide in the following format:
 URL | filename | username | password"""
     NOYES_URL = "@robot URL detected. Please use https://shrtz.me/PtsVnf6 and get me a fast URL so that I can upload to Telegram, without me slowing down for other users."
@@ -37,16 +37,8 @@ Telegram ID: <code>{}</code>
 Plan name: Free Cloned User
 Expires on: 31/12/2020"""
     HELP_USER = """Hai am URL Uploader bot..
-    
-1. Send url (Link|New Name with Extension).
-2. Send Custom Thumbnail (Optional).
-3. Select the button.
-   SVideo - Give File as video with Screenshots
-   DFile  - Give File with Screenshots
-   Video  - Give File as video without Screenshots
-   DFile  - Give File without Screenshots
-   
-<b>👉 Create own Clone Bot :</b> 👉 <a href="https://youtu.be/QkAkSLBgoYw">Diploy</a>
+
+<b>👉 Create own Clone 
 
 --------
 Send /me to know current plan details
