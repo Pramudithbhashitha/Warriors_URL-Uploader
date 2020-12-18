@@ -22,7 +22,7 @@ URL | filename | username | password"""
     AFTER_SUCCESSFUL_UPLOAD_MSG = "Please rate me if you find me useful. Join : @TGBotsZ"
     AFTER_SUCCESSFUL_UPLOAD_MSG_WITH_TS = "Downloaded in {} seconds. \nJoin : @TGBotsZ \nUploaded in {} seconds."
     NOT_AUTH_USER_TEXT = "Please /upgrade your subscription."
-    NOT_AUTH_USER_TEXT_FILE_SIZE = "Detected File Size: {}. Free Users can only upload: {}\nPlease /upgrade your subscription.\nIf you think this is a bug, please contact <a href='https://telegram.dog/ThankTelegram'>@SpEcHlDe</a>"
+    NOT_AUTH_USER_TEXT_FILE_SIZE = "Detected File Size: {}. Free Users can only upload: {}\nPlease /upgrade your subscription.\nIf you think this is a bug, please contact <a href='https://t.me/P_BHASHITHA'>@P_BHASHITHA</a>"
     SAVED_CUSTOM_THUMB_NAIL = "Custom video / file thumbnail saved. This image will be used in the video / file."
     DEL_ETED_CUSTOM_THUMB_NAIL = "✅ Custom thumbnail cleared succesfully."
     FF_MPEG_DEL_ETED_CUSTOM_MEDIA = "✅ Media cleared succesfully."
@@ -33,9 +33,9 @@ URL | filename | username | password"""
     USER_ADDED_TO_DB = "User <a href='tg://user?id={}'>{}</a> added to {} till {}."
     CURENT_PLAN_DETAILS = """Current plan details
 --------
-Telegram ID: <code>{}</code>
+Telegram ID: are you kidding me
 Plan name: Free Cloned User
-Expires on: 31/12/2020"""
+Expires on: NO EXPIRED"""
     HELP_USER = """Hai am URL Uploader bot..
 
 <b>👉 Create own Clone 
@@ -64,7 +64,7 @@ Support Group : @InFoTelGroup
     EXTRACT_ZIP_INTRO_ONE = "Send a compressed file first, Then reply /unzip command to the file."
     EXTRACT_ZIP_INTRO_THREE = "Analyzing received file. ⚠️ This might take some time. Please be patient. "
     UNZIP_SUPPORTED_EXTENSIONS = ("zip", "rar")
-    EXTRACT_ZIP_ERRS_OCCURED = "Sorry. Errors occurred while processing compressed file. Please check everything again twice, and if the issue persists, report this to <a href='https://telegram.dog/ThankTelegram'>@SpEcHlDe</a>"
+    EXTRACT_ZIP_ERRS_OCCURED = "Sorry. Errors occurred while processing compressed file. Please check everything again twice, and if the issue persists, report this to <a href='https://t.me/tech_warriors_LK'/@P_BHASHITHA</a>"
     EXTRACT_ZIP_STEP_TWO = """Select file_name to upload from the below options.
 You can use /rename command after receiving file to rename it with custom thumbnail support."""
     CANCEL_STR = "Process Cancelled"
